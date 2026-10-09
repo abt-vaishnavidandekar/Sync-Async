@@ -1,0 +1,4 @@
+asdfghjhjklasdhC:\Users\abtte\scoop\shims\python3.exe c:/Users/abtte/OneDrive/Desktop/Execution/async.py
+C:\Users\abtte\scoop\shims\python3.exe c:/Users/abtte/OneDrive/Desktop/Execution/async.py
+dfgh
+qwg

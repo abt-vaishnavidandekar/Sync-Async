@@ -1,0 +1,23 @@
+file = open("v1.txt", "a")
+a = input("Enter the text: ")
+data = file.write(f"{a}\n")
+print(data)
+file.close()
+
+file = open("v2.txt", "a")
+a = input("Enter the text: ")
+data = file.write(f"{a}\n")
+print(data)
+file.close()
+
+file = open("v3.txt", "a")
+a = input("Enter the text: ")
+data = file.write(f"{a}\n")
+print(data)
+file.close()
+
+file = open("v4.txt", "a")
+a = input("Enter the text: ")
+data = file.write(f"{a}\n")
+print(data)
+file.close()
